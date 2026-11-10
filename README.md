@@ -1,2 +1,5 @@
-# irfanisrael.github.io
-Irfan.Israel apps - support pages and privacy policis
+# Irfan.Israel – app pages
+
+Support pages and privacy policies for apps by Irfan.Israel.
+
+- Munshi Ji: https://irfanisrael.github.io/munshiji/privacy-policy.html
